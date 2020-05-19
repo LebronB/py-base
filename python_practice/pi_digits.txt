@@ -1,0 +1,10 @@
+In Python I can learn:
+list
+tuple
+dictionary
+if
+while
+function
+class
+import
+file
