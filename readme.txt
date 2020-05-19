@@ -1,3 +1,2 @@
-Git is a distributed version control system.
-Git is a free software distributed under the GP;.
-Git has a mutable index called stage.
+在学习《Python编程从入门到实践》的过程中，书中的练习和一些代码示例，主要记录了基础部分。
+后续web学习将使用另一个dir。
